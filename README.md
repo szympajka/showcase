@@ -37,7 +37,7 @@ I was responsible to cut & code pages form PSD's and write JS clients code.
 
 ## Askchat
 
-**https://www.askchat.kkwm.pl/**
+**http://www.askchat.kkwm.pl/**
 
 This is a landing page created by me for me and my friend hobby project
 
@@ -49,3 +49,19 @@ I was responsible to create and code this page.
 - CSS 3 (Less),
 - Vanilla CSS Grid,
 - JavaScript (jQuery)
+
+## Diqius
+
+**http://www.diqius.kkwm.pl/**
+
+This is a project creaded by me as a final project of my 4 years on my Secondary School
+
+**Used technologies:**
+
+- HTML 5,
+- CSS 3 (Less),
+- PHP,
+- MySQL,
+- Vanilla CSS Grid,
+- JavaScript (jQuery),
+- Design skills :heart:
