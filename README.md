@@ -2,7 +2,7 @@
 
 Here you can find a projects which I was/am creating since I am a Front End developer.
 
-## Zacznijto.pl
+## Zacznijto
 
 **https://www.zacznijto.pl/**
 
@@ -17,7 +17,7 @@ As you can see this is a langing page on which this company is presenting values
 - Bootstrap,
 - Animate.css,
 
-## eatsme.pl
+## Eatsme
 
 **https://www.eatsme.pl/**
 
@@ -33,4 +33,19 @@ I was responsible to cut & code pages form PSD's and write JS clients code.
 - Animate.css,
 - JCP's CMS
 - Smarty,
+- JavaScript (jQuery)
+
+## Askchat
+
+**https://www.askchat.kkwm.pl/**
+
+This is a landing page created by me for me and my friend hobby project
+
+I was responsible to create and code this page.
+
+**Used technologies:**
+
+- HTML 5,
+- CSS 3 (Less),
+- Vanilla CSS Grid,
 - JavaScript (jQuery)
