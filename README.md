@@ -68,5 +68,5 @@ This is a project creaded by me as a final project of my 4 years on my Secondary
 
 **To sign in** use credentials below:
 
-`Login: root@diqius.coo.ovh
+`Login: root@diqius.coo.ovh /n
 Password: wMq&QRkGPisA`
