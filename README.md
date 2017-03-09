@@ -16,3 +16,21 @@ As you can see this is a langing page on which this company is presenting values
 - CSS 3 (Less),
 - Bootstrap,
 - Animate.css,
+
+## eatsme.pl
+
+**https://www.eatsme.pl/**
+
+This is a webpage created by me when I was working for Polish company _James Cook Publishing_
+
+I was responsible to cut & code pages form PSD's and write JS clients code.
+
+**Used technologies:**
+
+- HTML 5,
+- CSS 3 (Less),
+- Bootstrap,
+- Animate.css,
+- JCP's CMS
+- Smarty,
+- JavaScript (jQuery)
