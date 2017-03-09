@@ -4,6 +4,8 @@ Here you can find projects which I was/am creating since I am a Front End develo
 
 I am presenting only technologies which I was using.
 
+There are only selected works. 
+
 ## Zacznijto
 
 **https://www.zacznijto.pl/**
